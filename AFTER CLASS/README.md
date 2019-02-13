@@ -6,6 +6,17 @@ Convert ```1010``` in hexadecimal to its 10th base by using pythons in-place fun
 
 **Tip:** You can use ```0x``` to verify your solutions
 
+**Answer:**
+
+```python
+print(sum([pow(16,0)*0, pow(16,1)*1, pow(16,2)*0, pow(16,3)*1]))
+# Result: 4112
+
+# To verify
+print(0x1010)
+# Result: 4112
+```
+
 ### Week 3
 
 1- From the given values to three string variables that have values - ‘Small’, ‘Medium’, ‘Large’, and then write the code that prints the truth value of each one being ‘Small’.
