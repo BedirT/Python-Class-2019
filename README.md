@@ -13,4 +13,12 @@ This section is for students and parets to see the notes we finally have when th
 ### Naming Convention
 File names are in format; 
 L (Lecture) + Class number + Section + The topic name
+
 ***Example:** L3.2 - Operators and Expressions in Python.py*
+
+## Direct Links (After Class)
+|Week|Date|Topic|Raw File|
+| --- | --- | --- |
+|Week 2|02/3/2019|[Data Types & Math Functions](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L2%20-%20Data%20Types%20%26%20Math%20Functions.py)||
+|Week 3|02/10/2019|[Variables in Python](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L3%20-%20Variables%20in%20Python.py)|[Raw version](https://github.com/BedirT/Python-Class-2019/blob/master/PREP/L3%20-%20Variables%20in%20Python.py)|
+|||[Operators and Expressions in Python](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L3.2%20-%20Operators%20and%20Expressions%20in%20Python.py)|[Raw version](https://github.com/BedirT/Python-Class-2019/blob/master/PREP/L3.2%20-%20Operators%20and%20Expressions%20in%20Python.py)|
