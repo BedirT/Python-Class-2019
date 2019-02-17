@@ -10,6 +10,9 @@ This section includes the raw materials I prepared before class, it is meant to 
 #### After Class
 This section is for students and parets to see the notes we finally have when the section or class ends. The students are already required to take notes -should look almost same with mine- you can compare and check the missing parts.
 
+#### Homework
+Homework questions are listed in the After Class file.
+
 ### Naming Convention
 File names are in format; 
 L (Lecture) + Class number + Section + The topic name
@@ -22,3 +25,4 @@ L (Lecture) + Class number + Section + The topic name
 |Week 2|02/3/2019|[Data Types & Math Functions](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L2%20-%20Data%20Types%20%26%20Math%20Functions.py)||
 |Week 3|02/10/2019|[Variables in Python](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L3%20-%20Variables%20in%20Python.py)|[Prep version](https://github.com/BedirT/Python-Class-2019/blob/master/PREP/L3%20-%20Variables%20in%20Python.py)|
 |||[Operators and Expressions in Python](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L3.2%20-%20Operators%20and%20Expressions%20in%20Python.py)|[Prep version](https://github.com/BedirT/Python-Class-2019/blob/master/PREP/L3.2%20-%20Operators%20and%20Expressions%20in%20Python.py)|
+Week 4|02/17/2019|[Strings in Python](https://github.com/BedirT/Python-Class-2019/blob/master/AFTER%20CLASS/L4%20-%20Strings%20in%20Python.py)|[Prep version](https://github.com/BedirT/Python-Class-2019/blob/master/PREP/L4%20-%20Strings%20in%20Python.py)|
