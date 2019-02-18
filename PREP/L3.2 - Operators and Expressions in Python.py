@@ -60,29 +60,3 @@ M. Bedir Tapkan
 # “or” and Non-Boolean Operands
 
 # “and” and Non-Boolean Operands
-
-
-# Bitwise Operators
-# & - bitwise AND
-
-# | - bitwise OR
-
-# ~ - bitwise negation
-
-# ^ - bitwise XOR (exclusive OR)
-
-# >> - Shift right n places
-
-# << - Shift left n places
-
-
-# Identity Operators
-# is
-
-# is not
-
-
-# Operator Precedence
-
-
-# Augmented Assignment Operators
