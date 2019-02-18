@@ -29,10 +29,49 @@ print(0x1010)
 
 ***PS: Print after every line.***
 
+**Answer:**
+
+```python
+# Question 1:
+strS = 'Small'
+strM = 'Medium'
+strL = 'Large'
+
+print(strS == 'Small')
+print(strM == 'Medium')
+print(strL == 'Large')
+
+# Question 2:
+# part 1
+a, b = 3, 7
+c = a * b
+print("a * b =", c)
+# part 2
+c = c + 4 * a
+print("c + 4a =, c)
+# part 3
+c = c % b
+print("c % b =", c)
+# part 4
+print(c >= a)
+print(c >= b)
+```
+
 
 ### Week 4
 
-1- Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string.
+1. Write a program that gets an integer input from user and prints the corresponding Unicode character.
+2. Write a program that first gets a string from user and second shorter one, and print the truth value of - if the second string is included in the first one. (DO NOT use if statements or any other conditionals, we learned a method to achive this.)
+3. Write a program that gets a string from user and prints the length of it.
+4. Write a program that cuts a string from user and gets 3 integers:
+  - Start point
+  - End point
+  - What is the step size (we specified in class)
+
+
+_Since we couldn't come until this part this question will be for next week_
+
+Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string.
 
 **Sample String:**
 'The lyrics is not that poor!'
