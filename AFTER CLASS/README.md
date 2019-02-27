@@ -67,15 +67,38 @@ print(c >= b)
   - Start point
   - End point
   - What is the step size (we specified in class)
+  
+```python
+# Q1
+num = input("Enter a number to check the corresponding unicode character: ")
+print("The corresponding unicode character is ", chr(int(num)))
+
+# Q2
+s1 = input("Please enter the first string: ")
+s2 = input("Please enter a string to search in s1: ")
+print(s2 in s1)
+
+# Q3
+s = input("Please enter a string to check the size of it: ")
+print("The size of the string is ", len(s))
+
+# Q4 
+s = input("Please enter a string to test the substring: ")
+start = int(input("Please enter an integer, it will indicate the starting index for the substring: "))
+end = int(input("Please enter an integer, it will indicate the end index for the substring: "))
+step = int(input("Please enter an integer, it will indicate the step size for creating the substring: "))
+print(s[start:end:step])
+```
 
 
-_Since we couldn't come until this part this question will be for next week_
+### Week 5
 
 Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string, if 'not' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string.
 
 **Sample String:**
-'The lyrics is not that poor!'
-'The lyrics is poor!'
+- 'The lyrics is not that poor!'
+- 'The lyrics is poor!'
+
 **Expected Result:** 
-'The lyrics is good!'
-'The lyrics is poor!'
+- 'The lyrics is good!'
+- 'The lyrics is poor!'
