@@ -67,7 +67,9 @@ print(c >= b)
   - Start point
   - End point
   - What is the step size (we specified in class)
-  
+
+**Answer:**
+
 ```python
 # Q1
 num = input("Enter a number to check the corresponding unicode character: ")
@@ -102,3 +104,14 @@ Write a Python program to find the first appearance of the substring 'not' and '
 **Expected Result:** 
 - 'The lyrics is good!'
 - 'The lyrics is poor!'
+
+**Answer:**
+
+```python
+s1 = input("Enter the phrase: ")
+notIdx = s1.find('not')
+poorIdx = s1.find('poor')
+if notIdx != -1 and poorIdx != -1 and notIdx < poorIdx:	
+	s1 = s1.replace(s1[notIdx:poorIdx + len('poor')], 'good')
+print(s1)
+```
