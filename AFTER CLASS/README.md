@@ -115,3 +115,22 @@ if notIdx != -1 and poorIdx != -1 and notIdx < poorIdx:
 	s1 = s1.replace(s1[notIdx:poorIdx + len('poor')], 'good')
 print(s1)
 ```
+
+### Week 6
+
+Create a 3D list with dimensions 3x2x2 that has integers and characters as elements. After creating the list, print all the elements by itself and with its neighbors.
+
+**i.e.** for the line 2, 3, 'a'; print - 
+
+2
+
+3
+
+a
+
+2, 3
+
+2, 3, a
+
+3, a
+
