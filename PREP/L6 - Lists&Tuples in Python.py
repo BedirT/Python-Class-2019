@@ -42,8 +42,3 @@ M. Bedir Tapkan
 # pop(index=-1)
 
 # Lists are dynamic.
-
-
-# Python Tuples
-
-# Tuple Assignment, Packing, and Unpacking
