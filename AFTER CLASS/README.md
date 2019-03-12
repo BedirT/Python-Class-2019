@@ -134,3 +134,6 @@ a
 
 3, a
 
+### Week 7
+
+Since noone accomplished finishing week 6, the assignement is to finish what we had assigned last week. Since there is spring break as well, the assignment is extended: instead of 3x2x2 the task is now 3x3x3 dimensions. If clarification is needed email me for the questions.
