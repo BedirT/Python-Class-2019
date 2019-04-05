@@ -134,3 +134,8 @@ a
 
 3, a
 
+### Week 9
+
+Create a list with n integers - n being declared by user, and ask all the elements to user as well. Multiply all the integers with the number after it, and print. (For the last number, do not add it in the solution; 
+
+**ex. 1,2,3 -> add: 1 x 2 + 2 x 3, stop there**
