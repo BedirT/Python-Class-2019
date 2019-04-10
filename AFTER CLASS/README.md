@@ -143,3 +143,21 @@ Since noone accomplished week 6, the assignement is to finish what we had assign
 Create a list with n integers - n being declared by user, and ask all the elements to user as well. Multiply all the integers with the number after it, and print. (For the last number, do not add it in the solution; 
 
 **ex. 1,2,3 -> add: 1 x 2 + 2 x 3, stop there**
+
+### Week 10
+
+Create a system that asks user to enter a number between 1 and 10 (inclusive) repeadetly until user enters 'Stop'. And with each input print out the verbal version of the given to the screen. If the input is invalid warn the user and let them try again.
+
+**Sample input:**
+
+2
+
+11
+
+Stop
+
+**Sample output:**
+
+Two
+
+Invalid input, please enter a number between 1-10 or 'stop' to exit!
